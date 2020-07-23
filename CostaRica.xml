@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<división-administrativa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="divisi%C3%B3n%20(jer%C3%A1rquica).xsd">
+    <provincia número="1" nombre="San José">
+        <cantón número="1" nombre="San José">
+            <distrito número="1" secuencia="1" nombre="Carmen"/>
+            <distrito número="2" secuencia="2" nombre="Merced"/>
+            <distrito número="3" secuencia="3" nombre="Hospital"/>
+            <distrito número="4" secuencia="4" nombre="Catedral"/>
+            <distrito número="5" secuencia="5" nombre="Zapote"/>
+            <distrito número="6" secuencia="6" nombre="San Francisco de Dos Ríos"/>
+            <distrito número="7" secuencia="7" nombre="Uruca"/>
+            <distrito número="8" secuencia="8" nombre="Mata Redonda"/>
+            <distrito número="9" secuencia="9" nombre="Pavas"/>
+            <distrito número="10" secuencia="10" nombre="Hatillo"/>
+            <distrito número="11" secuencia="11" nombre="San Sebastián"/>
+        </cantón>
+        <cantón número="2" nombre="Escazú">
+            <distrito número="12" secuencia="1" nombre="Escazú"/>
+            <distrito número="13" secuencia="2" nombre="San Antonio"/>
+            <distrito número="14" secuencia="3" nombre="San Rafael"/>
+        </cantón>
+        <cantón número="3" nombre="Desamparados">
+            <distrito número="15" secuencia="1" nombre="Desamparados"/>
+            <distrito número="16" secuencia="2" nombre="San Miguel"/>
+            <distrito número="17" secuencia="3" nombre="San Juan de Dios"/>
+            <distrito número="18" secuencia="4" nombre="San Rafael Arriba"/>
+            <distrito número="19" secuencia="5" nombre="San Antonio"/>
+            <distrito número="20" secuencia="6" nombre="Frailes"/>
+            <distrito número="21" secuencia="7" nombre="Patarrá"/>
+            <distrito número="22" secuencia="8" nombre="San Cristóbal"/>
+            <distrito número="23" secuencia="9" nombre="Rosario"/>
+            <distrito número="24" secuencia="10" nombre="Damas"/>
+            <distrito número="25" secuencia="11" nombre="San Rafael Abajo"/>
+            <distrito número="26" secuencia="12" nombre="Gravilias"/>
+            <distrito número="27" secuencia="13" nombre="Los Guido"/>
+        </cantón>
+        <cantón número="4" nombre="Puriscal">
+            <distrito número="28" secuencia="1" nombre="Santiago"/>
+            <distrito número="29" secuencia="2" nombre="Mercedes Sur"/>
+            <distrito número="30" secuencia="3" nombre="Barbacoas"/>
+            <distrito número="31" secuencia="4" nombre="Grifo Alto"/>
+            <distrito número="32" secuencia="5" nombre="San Rafael"/>
+            <distrito número="33" secuencia="6" nombre="Candelarita"/>
+            <distrito número="34" secuencia="7" nombre="Desamparaditos"/>
+            <distrito número="35" secuencia="8" nombre="San Antonio"/>
+            <distrito número="36" secuencia="9" nombre="Chires"/>
+            <distrito número="37" secuencia="10" nombre="La Cangreja"/>
+        </cantón>
+        <cantón número="5" nombre="Tarrazú">
+            <distrito número="38" secuencia="1" nombre="San Marcos"/>
+            <distrito número="39" secuencia="2" nombre="San Lorenzo"/>
+            <distrito número="40" secuencia="3" nombre="San Carlos"/>
+        </cantón>
+        <cantón número="6" nombre="Aserrí">
+            <distrito número="41" secuencia="1" nombre="Aserrí"/>
+            <distrito número="42" secuencia="2" nombre="Tarbaca"/>
+            <distrito número="43" secuencia="3" nombre="Vuelta de Jorco"/>
+            <distrito número="44" secuencia="4" nombre="San Gabriel"/>
+            <distrito número="45" secuencia="5" nombre="Legua"/>
+            <distrito número="46" secuencia="6" nombre="Monterrey"/>
+            <distrito número="47" secuencia="7" nombre="Salitrillos"/>
+        </cantón>
+        <cantón número="7" nombre="Mora">
+            <distrito número="48" secuencia="1" nombre="Ciudad Colón"/>
+            <distrito número="49" secuencia="2" nombre="Guayabo"/>
+            <distrito número="50" secuencia="3" nombre="Tabarcia"/>
+            <distrito número="51" secuencia="4" nombre="Piedras Negras"/>
+            <distrito número="52" secuencia="5" nombre="Picagres"/>
+            <distrito número="53" secuencia="6" nombre="Jaris"/>
+            <distrito número="54" secuencia="7" nombre="Quitirrisí"/>
+        </cantón>
+        <cantón número="8" nombre="Goicoechea">
+            <distrito número="55" secuencia="1" nombre="Guadalupe"/>
+            <distrito número="56" secuencia="2" nombre="San Francisco"/>
+            <distrito número="57" secuencia="3" nombre="Calle Blancos"/>
+            <distrito número="58" secuencia="4" nombre="Mata de Plátano"/>
+            <distrito número="59" secuencia="5" nombre="Ipís"/>
+            <distrito número="60" secuencia="6" nombre="Rancho Redondo"/>
+            <distrito número="61" secuencia="7" nombre="Purral"/>
+        </cantón>
+        <cantón número="9" nombre="Santa Ana">
+            <distrito número="62" secuencia="1" nombre="Santa Ana"/>
+            <distrito número="63" secuencia="2" nombre="Salitral"/>
+            <distrito número="64" secuencia="3" nombre="Pozos"/>
+            <distrito número="65" secuencia="4" nombre="Uruca"/>
+            <distrito número="66" secuencia="5" nombre="Piedades"/>
+            <distrito número="67" secuencia="6" nombre="Brasil"/>
+        </cantón>
+        <cantón número="10" nombre="Alajuelita">
+            <distrito número="68" secuencia="1" nombre="Alajuelita"/>
+            <distrito número="69" secuencia="2" nombre="San Josecito"/>
+            <distrito número="70" secuencia="3" nombre="San Antonio"/>
+            <distrito número="71" secuencia="4" nombre="Concepción"/>
+            <distrito número="72" secuencia="5" nombre="San Felipe"/>
+        </cantón>
+        <cantón número="11" nombre="Vázquez de Coronado">
+            <distrito número="73" secuencia="1" nombre="San Isidro"/>
+            <distrito número="74" secuencia="2" nombre="San Rafael"/>
+            <distrito número="75" secuencia="3" nombre="Dulce Nombre de Jesús"/>
+            <distrito número="76" secuencia="4" nombre="Patalillo"/>
+            <distrito número="77" secuencia="5" nombre="Cascajal"/>
+        </cantón>
+        <cantón número="12" nombre="Acosta">
+            <distrito número="78" secuencia="1" nombre="San Ignacio"/>
+            <distrito número="79" secuencia="2" nombre="Guaitil"/>
+            <distrito número="80" secuencia="3" nombre="Palmichal"/>
+            <distrito número="81" secuencia="4" nombre="Cangrejal"/>
+            <distrito número="82" secuencia="5" nombre="Sabanillas"/>
+        </cantón>
+        <cantón número="13" nombre="Tibás">
+            <distrito número="83" secuencia="1" nombre="San Juan"/>
+            <distrito número="84" secuencia="2" nombre="Cinco Esquinas"/>
+            <distrito número="85" secuencia="3" nombre="Anselmo Llorente"/>
+            <distrito número="86" secuencia="4" nombre="León XIII"/>
+            <distrito número="87" secuencia="5" nombre="Colima"/>
+        </cantón>
+        <cantón número="14" nombre="Moravia">
+            <distrito número="88" secuencia="1" nombre="San Vicente"/>
+            <distrito número="89" secuencia="2" nombre="San Jerónimo"/>
+            <distrito número="90" secuencia="3" nombre="Trinidad"/>
+        </cantón>
+        <cantón número="15" nombre="Montes de Oca">
+            <distrito número="91" secuencia="1" nombre="San Pedro"/>
+            <distrito número="92" secuencia="2" nombre="Sabanilla"/>
+            <distrito número="93" secuencia="3" nombre="Mercedes"/>
+            <distrito número="94" secuencia="4" nombre="San Rafael"/>
+        </cantón>
+        <cantón número="16" nombre="Turrubares">
+            <distrito número="95" secuencia="1" nombre="San Pablo"/>
+            <distrito número="96" secuencia="2" nombre="San Pedro"/>
+            <distrito número="97" secuencia="3" nombre="San Juan de Mata"/>
+            <distrito número="98" secuencia="4" nombre="San Luis"/>
+            <distrito número="99" secuencia="5" nombre="Carara"/>
+        </cantón>
+        <cantón número="17" nombre="Dota">
+            <distrito número="100" secuencia="1" nombre="Santa María"/>
+            <distrito número="101" secuencia="2" nombre="Jardín"/>
+            <distrito número="102" secuencia="3" nombre="Copey"/>
+        </cantón>
+        <cantón número="18" nombre="Curridabat">
+            <distrito número="103" secuencia="1" nombre="Curridabat"/>
+            <distrito número="104" secuencia="2" nombre="Granadilla"/>
+            <distrito número="105" secuencia="3" nombre="Sánchez"/>
+            <distrito número="106" secuencia="4" nombre="Tirrases"/>
+        </cantón>
+        <cantón número="19" nombre="Pérez Zeledón">
+            <distrito número="107" secuencia="1" nombre="San Isidro de El General"/>
+            <distrito número="108" secuencia="2" nombre="El General"/>
+            <distrito número="109" secuencia="3" nombre="Daniel Flores"/>
+            <distrito número="110" secuencia="4" nombre="Rivas"/>
+            <distrito número="111" secuencia="5" nombre="San Pedro"/>
+            <distrito número="112" secuencia="6" nombre="Platanares"/>
+            <distrito número="113" secuencia="7" nombre="Pejibaye"/>
+            <distrito número="114" secuencia="8" nombre="Cajón"/>
+            <distrito número="115" secuencia="9" nombre="Barú"/>
+            <distrito número="116" secuencia="10" nombre="Río Nuevo"/>
+            <distrito número="117" secuencia="11" nombre="Páramo"/>
+            <distrito número="118" secuencia="12" nombre="La Amistad"/>
+        </cantón>
+        <cantón número="20" nombre="León Cortés Castro">
+            <distrito número="119" secuencia="1" nombre="San Pablo"/>
+            <distrito número="120" secuencia="2" nombre="San Andrés"/>
+            <distrito número="121" secuencia="3" nombre="Llano Bonito"/>
+            <distrito número="122" secuencia="4" nombre="San Isidro"/>
+            <distrito número="123" secuencia="5" nombre="Santa Cruz"/>
+            <distrito número="124" secuencia="6" nombre="San Antonio"/>
+        </cantón>
+    </provincia>
+    <provincia número="2" nombre="Alajuela">
+        <cantón número="1" nombre="Alajuela">
+            <distrito número="1" secuencia="1" nombre="Alajuela"/>
+            <distrito número="2" secuencia="2" nombre="San José"/>
+            <distrito número="3" secuencia="3" nombre="Carrizal"/>
+            <distrito número="4" secuencia="4" nombre="San Antonio"/>
+            <distrito número="5" secuencia="5" nombre="Guácima"/>
+            <distrito número="6" secuencia="6" nombre="San Isidro"/>
+            <distrito número="7" secuencia="7" nombre="Sabanilla"/>
+            <distrito número="8" secuencia="8" nombre="San Rafael"/>
+            <distrito número="9" secuencia="9" nombre="Río Segundo"/>
+            <distrito número="10" secuencia="10" nombre="Desamparados"/>
+            <distrito número="11" secuencia="11" nombre="Turrúcares"/>
+            <distrito número="12" secuencia="12" nombre="Tambor"/>
+            <distrito número="13" secuencia="13" nombre="Garita"/>
+            <distrito número="14" secuencia="14" nombre="Sarapiquí"/>
+        </cantón>
+        <cantón número="2" nombre="San Ramón">
+            <distrito número="15" secuencia="1" nombre="San Ramón"/>
+            <distrito número="16" secuencia="2" nombre="Santiago"/>
+            <distrito número="17" secuencia="3" nombre="San Juan"/>
+            <distrito número="18" secuencia="4" nombre="Piedades Norte"/>
+            <distrito número="19" secuencia="5" nombre="Piedades Sur"/>
+            <distrito número="20" secuencia="6" nombre="San Rafael"/>
+            <distrito número="21" secuencia="7" nombre="San Isidro"/>
+            <distrito número="22" secuencia="8" nombre="Ángeles"/>
+            <distrito número="23" secuencia="9" nombre="Alfaro"/>
+            <distrito número="24" secuencia="10" nombre="Volio"/>
+            <distrito número="25" secuencia="11" nombre="Concepción"/>
+            <distrito número="26" secuencia="12" nombre="Zapotal"/>
+            <distrito número="27" secuencia="13" nombre="Peñas Blancas"/>
+            <distrito número="28" secuencia="14" nombre="San Lorenzo"/>
+        </cantón>
+        <cantón número="3" nombre="Grecia">
+            <distrito número="29" secuencia="1" nombre="Grecia"/>
+            <distrito número="30" secuencia="2" nombre="San Isidro"/>
+            <distrito número="31" secuencia="3" nombre="San José"/>
+            <distrito número="32" secuencia="4" nombre="San Roque"/>
+            <distrito número="33" secuencia="5" nombre="Tacares"/>
+            <distrito número="34" secuencia="6" nombre="Puente de Piedra"/>
+            <distrito número="35" secuencia="7" nombre="Bolívar"/>
+        </cantón>
+        <cantón número="4" nombre="San Mateo">
+            <distrito número="36" secuencia="1" nombre="San Mateo"/>
+            <distrito número="37" secuencia="2" nombre="Desmonte"/>
+            <distrito número="38" secuencia="3" nombre="Jesús María"/>
+            <distrito número="39" secuencia="4" nombre="Labrador"/>
+        </cantón>
+        <cantón número="5" nombre="Atenas">
+            <distrito número="40" secuencia="1" nombre="Atenas"/>
+            <distrito número="41" secuencia="2" nombre="Jesús"/>
+            <distrito número="42" secuencia="3" nombre="Mercedes"/>
+            <distrito número="43" secuencia="4" nombre="San Isidro"/>
+            <distrito número="44" secuencia="5" nombre="Concepción"/>
+            <distrito número="45" secuencia="6" nombre="San José"/>
+            <distrito número="46" secuencia="7" nombre="Santa Eulalia"/>
+            <distrito número="47" secuencia="8" nombre="Escobal"/>
+        </cantón>
+        <cantón número="6" nombre="Naranjo">
+            <distrito número="48" secuencia="1" nombre="Naranjo"/>
+            <distrito número="49" secuencia="2" nombre="San Miguel"/>
+            <distrito número="50" secuencia="3" nombre="San José"/>
+            <distrito número="51" secuencia="4" nombre="Cirrí"/>
+            <distrito número="52" secuencia="5" nombre="San Jerónimo"/>
+            <distrito número="53" secuencia="6" nombre="San Juan"/>
+            <distrito número="54" secuencia="7" nombre="El Rosario"/>
+            <distrito número="55" secuencia="8" nombre="Palmitos"/>
+        </cantón>
+        <cantón número="7" nombre="Palmares">
+            <distrito número="56" secuencia="1" nombre="Palmares"/>
+            <distrito número="57" secuencia="2" nombre="Zaragoza"/>
+            <distrito número="58" secuencia="3" nombre="Buenos Aires"/>
+            <distrito número="59" secuencia="4" nombre="Santiago"/>
+            <distrito número="60" secuencia="5" nombre="Candelaria"/>
+            <distrito número="61" secuencia="6" nombre="Esquipulas"/>
+            <distrito número="62" secuencia="7" nombre="La Granja"/>
+        </cantón>
+        <cantón número="8" nombre="Poás">
+            <distrito número="63" secuencia="1" nombre="San Pedro"/>
+            <distrito número="64" secuencia="2" nombre="San Juan"/>
+            <distrito número="65" secuencia="3" nombre="San Rafael"/>
+            <distrito número="66" secuencia="4" nombre="Carrillos"/>
+            <distrito número="67" secuencia="5" nombre="Sabana Redonda"/>
+        </cantón>
+        <cantón número="9" nombre="Orotina">
+            <distrito número="68" secuencia="1" nombre="Orotina"/>
+            <distrito número="69" secuencia="2" nombre="Mastate"/>
+            <distrito número="70" secuencia="3" nombre="Hacienda Vieja"/>
+            <distrito número="71" secuencia="4" nombre="Coyolar"/>
+            <distrito número="72" secuencia="5" nombre="La Ceiba"/>
+        </cantón>
+        <cantón número="10" nombre="San Carlos">
+            <distrito número="73" secuencia="1" nombre="Quesada"/>
+            <distrito número="74" secuencia="2" nombre="Florencia"/>
+            <distrito número="75" secuencia="3" nombre="Buenavista"/>
+            <distrito número="76" secuencia="4" nombre="Aguas Zarcas"/>
+            <distrito número="77" secuencia="5" nombre="Venecia"/>
+            <distrito número="78" secuencia="6" nombre="Pital"/>
+            <distrito número="79" secuencia="7" nombre="La Fortuna"/>
+            <distrito número="80" secuencia="8" nombre="La Tigra"/>
+            <distrito número="81" secuencia="9" nombre="La Palmera"/>
+            <distrito número="82" secuencia="10" nombre="Venado"/>
+            <distrito número="83" secuencia="11" nombre="Cutris"/>
+            <distrito número="84" secuencia="12" nombre="Monterrey"/>
+            <distrito número="85" secuencia="13" nombre="Pocosol"/>
+        </cantón>
+        <cantón número="11" nombre="Zarcero">
+            <distrito número="86" secuencia="1" nombre="Zarcero"/>
+            <distrito número="87" secuencia="2" nombre="Laguna"/>
+            <distrito número="88" secuencia="3" nombre="Tapezco"/>
+            <distrito número="89" secuencia="4" nombre="Guadalupe"/>
+            <distrito número="90" secuencia="5" nombre="Palmira"/>
+            <distrito número="91" secuencia="6" nombre="Zapote"/>
+            <distrito número="92" secuencia="7" nombre="Brisas"/>
+        </cantón>
+        <cantón número="12" nombre="Valverde Vega">
+            <distrito número="93" secuencia="1" nombre="Sarchí Norte"/>
+            <distrito número="94" secuencia="2" nombre="Sarchí Sur"/>
+            <distrito número="95" secuencia="3" nombre="Toro Amarillo"/>
+            <distrito número="96" secuencia="4" nombre="San Pedro"/>
+            <distrito número="97" secuencia="5" nombre="Rodríguez"/>
+        </cantón>
+        <cantón número="13" nombre="Upala">
+            <distrito número="98" secuencia="1" nombre="Upala"/>
+            <distrito número="99" secuencia="2" nombre="Aguas Claras"/>
+            <distrito número="100" secuencia="3" nombre="San José (Pizote)"/>
+            <distrito número="101" secuencia="4" nombre="Bijagua"/>
+            <distrito número="102" secuencia="5" nombre="Delicias"/>
+            <distrito número="103" secuencia="6" nombre="Dos Ríos"/>
+            <distrito número="104" secuencia="7" nombre="Yolillal"/>
+            <distrito número="105" secuencia="8" nombre="Canalete"/>
+        </cantón>
+        <cantón número="14" nombre="Los Chiles">
+            <distrito número="106" secuencia="1" nombre="Los Chiles"/>
+            <distrito número="107" secuencia="2" nombre="Caño Negro"/>
+            <distrito número="108" secuencia="3" nombre="El Amparo"/>
+            <distrito número="109" secuencia="4" nombre="San Jorge"/>
+        </cantón>
+        <cantón número="15" nombre="Guatuso">
+            <distrito número="110" secuencia="1" nombre="San Rafael"/>
+            <distrito número="111" secuencia="2" nombre="Buenavista"/>
+            <distrito número="112" secuencia="3" nombre="Cote"/>
+            <distrito número="113" secuencia="4" nombre="Katira"/>
+        </cantón>
+        <cantón número="16" nombre="Río Cuarto">
+            <distrito número="114" secuencia="1" nombre="Río Cuarto"/>
+            <distrito número="115" secuencia="2" nombre="Santa Isabel"/>
+            <distrito número="116" secuencia="3" nombre="Santa Rita"/>
+        </cantón>
+    </provincia>
+    <provincia número="3" nombre="Cartago">
+        <cantón número="1" nombre="Cartago">
+            <distrito número="1" secuencia="1" nombre="Oriental"/>
+            <distrito número="2" secuencia="2" nombre="Occidental"/>
+            <distrito número="3" secuencia="3" nombre="Carmen"/>
+            <distrito número="4" secuencia="4" nombre="San Nicolás"/>
+            <distrito número="5" secuencia="5" nombre="Agua Caliente (San Francisco)"/>
+            <distrito número="6" secuencia="6" nombre="Guadalupe (Arenilla)"/>
+            <distrito número="7" secuencia="7" nombre="Corralillo"/>
+            <distrito número="8" secuencia="8" nombre="Tierra Blanca"/>
+            <distrito número="9" secuencia="9" nombre="Dulce Nombre"/>
+            <distrito número="10" secuencia="10" nombre="Llano Grande"/>
+            <distrito número="11" secuencia="11" nombre="Quebradilla"/>
+        </cantón>
+        <cantón número="2" nombre="Paraíso">
+            <distrito número="12" secuencia="1" nombre="Paraíso"/>
+            <distrito número="13" secuencia="2" nombre="Santiago de Paraíso"/>
+            <distrito número="14" secuencia="3" nombre="Orosi"/>
+            <distrito número="15" secuencia="4" nombre="Cachí"/>
+            <distrito número="16" secuencia="5" nombre="Llanos de Santa Lucía"/>
+        </cantón>
+        <cantón número="3" nombre="La Unión">
+            <distrito número="17" secuencia="1" nombre="Tres Ríos"/>
+            <distrito número="18" secuencia="2" nombre="San Diego"/>
+            <distrito número="19" secuencia="3" nombre="San Juan"/>
+            <distrito número="20" secuencia="4" nombre="San Rafael"/>
+            <distrito número="21" secuencia="5" nombre="Concepción"/>
+            <distrito número="22" secuencia="6" nombre="Dulce Nombre"/>
+            <distrito número="23" secuencia="7" nombre="San Ramón"/>
+            <distrito número="24" secuencia="8" nombre="Río Azul"/>
+        </cantón>
+        <cantón número="4" nombre="Jiménez">
+            <distrito número="25" secuencia="1" nombre="Juan Viñas"/>
+            <distrito número="26" secuencia="2" nombre="Tucurrique"/>
+            <distrito número="27" secuencia="3" nombre="Pejibaye"/>
+        </cantón>
+        <cantón número="5" nombre="Turrialba">
+            <distrito número="28" secuencia="1" nombre="Turrialba"/>
+            <distrito número="29" secuencia="2" nombre="La Suiza"/>
+            <distrito número="30" secuencia="3" nombre="Peralta"/>
+            <distrito número="31" secuencia="4" nombre="Santa Cruz"/>
+            <distrito número="32" secuencia="5" nombre="Santa Teresita"/>
+            <distrito número="33" secuencia="6" nombre="Pavones"/>
+            <distrito número="34" secuencia="7" nombre="Tuis"/>
+            <distrito número="35" secuencia="8" nombre="Tayutic"/>
+            <distrito número="36" secuencia="9" nombre="Santa Rosa"/>
+            <distrito número="37" secuencia="10" nombre="Tres Equis"/>
+            <distrito número="38" secuencia="11" nombre="La Isabel"/>
+            <distrito número="39" secuencia="12" nombre="Chirripó"/>
+        </cantón>
+        <cantón número="6" nombre="Alvarado">
+            <distrito número="40" secuencia="1" nombre="Pacayas"/>
+            <distrito número="41" secuencia="2" nombre="Cervantes"/>
+            <distrito número="42" secuencia="3" nombre="Capellades"/>
+        </cantón>
+        <cantón número="7" nombre="Oreamuno">
+            <distrito número="43" secuencia="1" nombre="San Rafael"/>
+            <distrito número="44" secuencia="2" nombre="Cot"/>
+            <distrito número="45" secuencia="3" nombre="Potrero Cerrado"/>
+            <distrito número="46" secuencia="4" nombre="Cipreses"/>
+            <distrito número="47" secuencia="5" nombre="Santa Rosa"/>
+        </cantón>
+        <cantón número="8" nombre="El Guarco">
+            <distrito número="48" secuencia="1" nombre="Tejar"/>
+            <distrito número="49" secuencia="2" nombre="San Isidro"/>
+            <distrito número="50" secuencia="3" nombre="Tobosi"/>
+            <distrito número="51" secuencia="4" nombre="Patio de Agua"/>
+        </cantón>
+    </provincia>
+    <provincia número="4" nombre="Heredia">
+        <cantón número="1" nombre="Heredia">
+            <distrito número="1" secuencia="1" nombre="Heredia"/>
+            <distrito número="2" secuencia="2" nombre="Mercedes"/>
+            <distrito número="3" secuencia="3" nombre="San Francisco"/>
+            <distrito número="4" secuencia="4" nombre="Ulloa"/>
+            <distrito número="5" secuencia="5" nombre="Vara Blanca"/>
+        </cantón>
+        <cantón número="2" nombre="Barva">
+            <distrito número="6" secuencia="1" nombre="Barva"/>
+            <distrito número="7" secuencia="2" nombre="San Pedro"/>
+            <distrito número="8" secuencia="3" nombre="San Pablo"/>
+            <distrito número="9" secuencia="4" nombre="San Roque"/>
+            <distrito número="10" secuencia="5" nombre="Santa Lucía"/>
+            <distrito número="11" secuencia="6" nombre="San José de la Montaña"/>
+        </cantón>
+        <cantón número="3" nombre="Santo Domingo">
+            <distrito número="12" secuencia="1" nombre="Santo Domingo"/>
+            <distrito número="13" secuencia="2" nombre="San Vicente"/>
+            <distrito número="14" secuencia="3" nombre="San Miguel"/>
+            <distrito número="15" secuencia="4" nombre="Paracito"/>
+            <distrito número="16" secuencia="5" nombre="Santo Tomás"/>
+            <distrito número="17" secuencia="6" nombre="Santa Rosa"/>
+            <distrito número="18" secuencia="7" nombre="Tures"/>
+            <distrito número="19" secuencia="8" nombre="Pará"/>
+        </cantón>
+        <cantón número="4" nombre="Santa Bárbara">
+            <distrito número="20" secuencia="1" nombre="Santa Bárbara"/>
+            <distrito número="21" secuencia="2" nombre="San Pedro"/>
+            <distrito número="22" secuencia="3" nombre="San Juan"/>
+            <distrito número="23" secuencia="4" nombre="Jesús"/>
+            <distrito número="24" secuencia="5" nombre="Santo Domingo"/>
+            <distrito número="25" secuencia="6" nombre="Purabá"/>
+        </cantón>
+        <cantón número="5" nombre="San Rafael">
+            <distrito número="26" secuencia="1" nombre="San Rafael"/>
+            <distrito número="27" secuencia="2" nombre="San Josecito"/>
+            <distrito número="28" secuencia="3" nombre="Santiago"/>
+            <distrito número="29" secuencia="4" nombre="Ángeles"/>
+            <distrito número="30" secuencia="5" nombre="Concepción"/>
+        </cantón>
+        <cantón número="6" nombre="San Isidro">
+            <distrito número="31" secuencia="1" nombre="San Isidro"/>
+            <distrito número="32" secuencia="2" nombre="San José"/>
+            <distrito número="33" secuencia="3" nombre="Concepción"/>
+            <distrito número="34" secuencia="4" nombre="San Francisco"/>
+        </cantón>
+        <cantón número="7" nombre="Belén">
+            <distrito número="35" secuencia="1" nombre="San Antonio"/>
+            <distrito número="36" secuencia="2" nombre="La Ribera"/>
+            <distrito número="37" secuencia="3" nombre="La Asunción"/>
+        </cantón>
+        <cantón número="8" nombre="Flores">
+            <distrito número="38" secuencia="1" nombre="San Joaquín"/>
+            <distrito número="39" secuencia="2" nombre="Barrantes"/>
+            <distrito número="40" secuencia="3" nombre="Llorente"/>
+        </cantón>
+        <cantón número="9" nombre="San Pablo">
+            <distrito número="41" secuencia="1" nombre="San Pablo"/>
+            <distrito número="42" secuencia="2" nombre="Rincón de Sabanilla"/>
+        </cantón>
+        <cantón número="10" nombre="Sarapiquí">
+            <distrito número="43" secuencia="1" nombre="Puerto Viejo"/>
+            <distrito número="44" secuencia="2" nombre="La Virgen"/>
+            <distrito número="45" secuencia="3" nombre="Horquetas"/>
+            <distrito número="46" secuencia="4" nombre="Llanuras del Gaspar"/>
+            <distrito número="47" secuencia="5" nombre="Cureña"/>
+        </cantón>
+    </provincia>
+    <provincia número="5" nombre="Guanacaste">
+        <cantón número="1" nombre="Liberia">
+            <distrito número="1" secuencia="1" nombre="Liberia"/>
+            <distrito número="2" secuencia="2" nombre="Cañas Dulces"/>
+            <distrito número="3" secuencia="3" nombre="Mayorga"/>
+            <distrito número="4" secuencia="4" nombre="Nacascolo"/>
+            <distrito número="5" secuencia="5" nombre="Curubandé"/>
+        </cantón>
+        <cantón número="2" nombre="Nicoya">
+            <distrito número="6" secuencia="1" nombre="Nicoya"/>
+            <distrito número="7" secuencia="2" nombre="Mansión"/>
+            <distrito número="8" secuencia="3" nombre="San Antonio"/>
+            <distrito número="9" secuencia="4" nombre="Quebrada Honda"/>
+            <distrito número="10" secuencia="5" nombre="Sámara"/>
+            <distrito número="11" secuencia="6" nombre="Nosara"/>
+            <distrito número="12" secuencia="7" nombre="Belén de Nosarita"/>
+        </cantón>
+        <cantón número="3" nombre="Santa Cruz">
+            <distrito número="13" secuencia="1" nombre="Santa Cruz"/>
+            <distrito número="14" secuencia="2" nombre="Bolsón"/>
+            <distrito número="15" secuencia="3" nombre="Veintisiete de Abril"/>
+            <distrito número="16" secuencia="4" nombre="Tempate"/>
+            <distrito número="17" secuencia="5" nombre="Cartagena"/>
+            <distrito número="18" secuencia="6" nombre="Cuajiniquil"/>
+            <distrito número="19" secuencia="7" nombre="Diriá"/>
+            <distrito número="20" secuencia="8" nombre="Cabo Velas"/>
+            <distrito número="21" secuencia="9" nombre="Tamarindo"/>
+        </cantón>
+        <cantón número="4" nombre="Bagaces">
+            <distrito número="22" secuencia="1" nombre="Bagaces"/>
+            <distrito número="23" secuencia="2" nombre="La Fortuna"/>
+            <distrito número="24" secuencia="3" nombre="Mogote"/>
+            <distrito número="25" secuencia="4" nombre="Río Naranjo"/>
+        </cantón>
+        <cantón número="5" nombre="Carrillo">
+            <distrito número="26" secuencia="1" nombre="Filadelfia"/>
+            <distrito número="27" secuencia="2" nombre="Palmira"/>
+            <distrito número="28" secuencia="3" nombre="Sardinal"/>
+            <distrito número="29" secuencia="4" nombre="Belén"/>
+        </cantón>
+        <cantón número="6" nombre="Cañas">
+            <distrito número="30" secuencia="1" nombre="Cañas"/>
+            <distrito número="31" secuencia="2" nombre="Palmira"/>
+            <distrito número="32" secuencia="3" nombre="San Miguel"/>
+            <distrito número="33" secuencia="4" nombre="Bebedero"/>
+            <distrito número="34" secuencia="5" nombre="Porozal"/>
+        </cantón>
+        <cantón número="7" nombre="Abangares">
+            <distrito número="35" secuencia="1" nombre="Las Juntas"/>
+            <distrito número="36" secuencia="2" nombre="Sierra"/>
+            <distrito número="37" secuencia="3" nombre="San Juan"/>
+            <distrito número="38" secuencia="4" nombre="Colorado"/>
+        </cantón>
+        <cantón número="8" nombre="Tilarán">
+            <distrito número="39" secuencia="1" nombre="Tilarán"/>
+            <distrito número="40" secuencia="2" nombre="Quebrada Grande"/>
+            <distrito número="41" secuencia="3" nombre="Tronadora"/>
+            <distrito número="42" secuencia="4" nombre="Santa Rosa"/>
+            <distrito número="43" secuencia="5" nombre="Líbano"/>
+            <distrito número="44" secuencia="6" nombre="Tierras Morenas"/>
+            <distrito número="45" secuencia="7" nombre="Arenal"/>
+        </cantón>
+        <cantón número="9" nombre="Nandayure">
+            <distrito número="46" secuencia="1" nombre="Carmona"/>
+            <distrito número="47" secuencia="2" nombre="Santa Rita"/>
+            <distrito número="48" secuencia="3" nombre="Zapotal"/>
+            <distrito número="49" secuencia="4" nombre="San Pablo"/>
+            <distrito número="50" secuencia="5" nombre="Porvenir"/>
+            <distrito número="51" secuencia="6" nombre="Bejuco"/>
+        </cantón>
+        <cantón número="10" nombre="La Cruz">
+            <distrito número="52" secuencia="1" nombre="La Cruz"/>
+            <distrito número="53" secuencia="2" nombre="Santa Cecilia"/>
+            <distrito número="54" secuencia="3" nombre="La Garita"/>
+            <distrito número="55" secuencia="4" nombre="Santa Elena"/>
+        </cantón>
+        <cantón número="11" nombre="Hojancha">
+            <distrito número="56" secuencia="1" nombre="Hojancha"/>
+            <distrito número="57" secuencia="2" nombre="Monte Romo"/>
+            <distrito número="58" secuencia="3" nombre="Puerto Carrillo"/>
+            <distrito número="59" secuencia="4" nombre="Huacas"/>
+            <distrito número="60" secuencia="5" nombre="Matambú"/>
+        </cantón>
+    </provincia>
+    <provincia número="6" nombre="Puntarenas">
+        <cantón número="1" nombre="Puntarenas">
+            <distrito número="1" secuencia="1" nombre="Puntarenas"/>
+            <distrito número="2" secuencia="2" nombre="Pitahaya"/>
+            <distrito número="3" secuencia="3" nombre="Chomes"/>
+            <distrito número="4" secuencia="4" nombre="Lepanto"/>
+            <distrito número="5" secuencia="5" nombre="Paquera"/>
+            <distrito número="6" secuencia="6" nombre="Manzanillo"/>
+            <distrito número="7" secuencia="7" nombre="Guacimal"/>
+            <distrito número="8" secuencia="8" nombre="Barranca"/>
+            <distrito número="9" secuencia="9" nombre="Monteverde"/>
+            <distrito número="10" secuencia="10" nombre="Isla del Coco"/>
+            <distrito número="11" secuencia="11" nombre="Cóbano"/>
+            <distrito número="12" secuencia="12" nombre="Chacarita"/>
+            <distrito número="13" secuencia="13" nombre="Chira"/>
+            <distrito número="14" secuencia="14" nombre="Acapulco"/>
+            <distrito número="15" secuencia="15" nombre="El Roble"/>
+            <distrito número="16" secuencia="16" nombre="Arancibia"/>
+        </cantón>
+        <cantón número="2" nombre="Esparza">
+            <distrito número="17" secuencia="1" nombre="Espíritu Santo"/>
+            <distrito número="18" secuencia="2" nombre="San Juan Grande"/>
+            <distrito número="19" secuencia="3" nombre="Macacona"/>
+            <distrito número="20" secuencia="4" nombre="San Rafael"/>
+            <distrito número="21" secuencia="5" nombre="San Jerónimo"/>
+            <distrito número="22" secuencia="6" nombre="Caldera"/>
+        </cantón>
+        <cantón número="3" nombre="Buenos Aires">
+            <distrito número="23" secuencia="1" nombre="Buenos Aires"/>
+            <distrito número="24" secuencia="2" nombre="Volcán"/>
+            <distrito número="25" secuencia="3" nombre="Potrero Grande"/>
+            <distrito número="26" secuencia="4" nombre="Boruca"/>
+            <distrito número="27" secuencia="5" nombre="Pilas"/>
+            <distrito número="28" secuencia="6" nombre="Colinas"/>
+            <distrito número="29" secuencia="7" nombre="Chánguena"/>
+            <distrito número="30" secuencia="8" nombre="Biolley"/>
+            <distrito número="31" secuencia="9" nombre="Brunka"/>
+        </cantón>
+        <cantón número="4" nombre="Montes de Oro">
+            <distrito número="32" secuencia="1" nombre="Miramar"/>
+            <distrito número="33" secuencia="2" nombre="La Unión"/>
+            <distrito número="34" secuencia="3" nombre="San Isidro"/>
+        </cantón>
+        <cantón número="5" nombre="Osa">
+            <distrito número="35" secuencia="1" nombre="Cortés"/>
+            <distrito número="36" secuencia="2" nombre="Palmar"/>
+            <distrito número="37" secuencia="3" nombre="Sierpe"/>
+            <distrito número="38" secuencia="4" nombre="Bahía Ballena"/>
+            <distrito número="39" secuencia="5" nombre="Piedras Blancas"/>
+            <distrito número="40" secuencia="6" nombre="Bahía Drake"/>
+        </cantón>
+        <cantón número="6" nombre="Quepos">
+            <distrito número="41" secuencia="1" nombre="Quepos"/>
+            <distrito número="42" secuencia="2" nombre="Savegre"/>
+            <distrito número="43" secuencia="3" nombre="Naranjito"/>
+        </cantón>
+        <cantón número="7" nombre="Golfito">
+            <distrito número="44" secuencia="1" nombre="Golfito"/>
+            <distrito número="45" secuencia="2" nombre="Puerto Jiménez"/>
+            <distrito número="46" secuencia="3" nombre="Guaycará"/>
+            <distrito número="47" secuencia="4" nombre="Pavón"/>
+        </cantón>
+        <cantón número="8" nombre="Coto Brus">
+            <distrito número="48" secuencia="1" nombre="San Vito"/>
+            <distrito número="49" secuencia="2" nombre="Sabalito"/>
+            <distrito número="50" secuencia="3" nombre="Aguabuena"/>
+            <distrito número="51" secuencia="4" nombre="Limoncito"/>
+            <distrito número="52" secuencia="5" nombre="Pittier"/>
+            <distrito número="53" secuencia="6" nombre="Gutiérrez Brown"/>
+        </cantón>
+        <cantón número="9" nombre="Parrita">
+            <distrito número="54" secuencia="1" nombre="Parrita"/>
+        </cantón>
+        <cantón número="10" nombre="Corredores">
+            <distrito número="55" secuencia="1" nombre="Corredor"/>
+            <distrito número="56" secuencia="2" nombre="La Cuesta"/>
+            <distrito número="57" secuencia="3" nombre="Paso Canoas"/>
+            <distrito número="58" secuencia="4" nombre="Laurel"/>
+        </cantón>
+        <cantón número="11" nombre="Garabito">
+            <distrito número="59" secuencia="1" nombre="Jacó"/>
+            <distrito número="60" secuencia="2" nombre="Tárcoles"/>
+        </cantón>
+    </provincia>
+    <provincia número="7" nombre="Limón">
+        <cantón número="1" nombre="Limón">
+            <distrito número="1" secuencia="1" nombre="Limón"/>
+            <distrito número="2" secuencia="2" nombre="Valle La Estrella"/>
+            <distrito número="3" secuencia="3" nombre="Río Blanco"/>
+            <distrito número="4" secuencia="4" nombre="Matama"/>
+        </cantón>
+        <cantón número="2" nombre="Pococí">
+            <distrito número="5" secuencia="1" nombre="Guápiles"/>
+            <distrito número="6" secuencia="2" nombre="Jiménez"/>
+            <distrito número="7" secuencia="3" nombre="La Rita"/>
+            <distrito número="8" secuencia="4" nombre="Roxana"/>
+            <distrito número="9" secuencia="5" nombre="Cariari"/>
+            <distrito número="10" secuencia="6" nombre="Colorado"/>
+            <distrito número="11" secuencia="7" nombre="La Colonia"/>
+        </cantón>
+        <cantón número="3" nombre="Siquirres">
+            <distrito número="12" secuencia="1" nombre="Siquirres"/>
+            <distrito número="13" secuencia="2" nombre="Pacuarito"/>
+            <distrito número="14" secuencia="3" nombre="Florida"/>
+            <distrito número="15" secuencia="4" nombre="Germania"/>
+            <distrito número="16" secuencia="5" nombre="Cairo"/>
+            <distrito número="17" secuencia="6" nombre="Alegría"/>
+        </cantón>
+        <cantón número="4" nombre="Talamanca">
+            <distrito número="18" secuencia="1" nombre="Bratsi"/>
+            <distrito número="19" secuencia="2" nombre="Sixaola"/>
+            <distrito número="20" secuencia="3" nombre="Cahuita"/>
+            <distrito número="21" secuencia="4" nombre="Telire"/>
+        </cantón>
+        <cantón número="5" nombre="Matina">
+            <distrito número="22" secuencia="1" nombre="Matina"/>
+            <distrito número="23" secuencia="2" nombre="Batán"/>
+            <distrito número="24" secuencia="3" nombre="Carrandi"/>
+        </cantón>
+        <cantón número="6" nombre="Guácimo">
+            <distrito número="25" secuencia="1" nombre="Guácimo"/>
+            <distrito número="26" secuencia="2" nombre="Mercedes"/>
+            <distrito número="27" secuencia="3" nombre="Pocora"/>
+            <distrito número="28" secuencia="4" nombre="Río Jiménez"/>
+            <distrito número="29" secuencia="5" nombre="Duacarí"/>
+        </cantón>
+    </provincia>
+</división-administrativa>

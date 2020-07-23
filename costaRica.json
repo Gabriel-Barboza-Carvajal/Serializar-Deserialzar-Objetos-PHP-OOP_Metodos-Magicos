@@ -1,0 +1,6085 @@
+[
+  {
+    "numero": {
+      "0": "1"
+    },
+    "nombre": {
+      "0": "San José"
+    },
+    "cantones": [
+      {
+        "numero": 11,
+        "nombre": {
+          "0": "San José"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Carmen"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Escazú"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Escazú"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Escazú"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Escazú"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "nombre": {
+          "0": "Desamparados"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "Desamparados"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "nombre": {
+          "0": "Puriscal"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Santiago"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Tarrazú"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Marcos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Marcos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Marcos"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Aserrí"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Aserrí"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Mora"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Ciudad Colón"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Goicoechea"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Guadalupe"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Santa Ana"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "62"
+            },
+            "nombre": {
+              "0": "Santa Ana"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Alajuelita"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Alajuelita"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Alajuelita"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Alajuelita"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Alajuelita"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Alajuelita"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Vázquez de Coronado"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Acosta"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "78"
+            },
+            "nombre": {
+              "0": "San Ignacio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "78"
+            },
+            "nombre": {
+              "0": "San Ignacio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "78"
+            },
+            "nombre": {
+              "0": "San Ignacio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "78"
+            },
+            "nombre": {
+              "0": "San Ignacio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "78"
+            },
+            "nombre": {
+              "0": "San Ignacio"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Tibás"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "83"
+            },
+            "nombre": {
+              "0": "San Juan"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "83"
+            },
+            "nombre": {
+              "0": "San Juan"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "83"
+            },
+            "nombre": {
+              "0": "San Juan"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "83"
+            },
+            "nombre": {
+              "0": "San Juan"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "83"
+            },
+            "nombre": {
+              "0": "San Juan"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Moravia"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "88"
+            },
+            "nombre": {
+              "0": "San Vicente"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "88"
+            },
+            "nombre": {
+              "0": "San Vicente"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "88"
+            },
+            "nombre": {
+              "0": "San Vicente"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Montes de Oca"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "91"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "91"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "91"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "91"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Turrubares"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "95"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "95"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "95"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "95"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "95"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Dota"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "100"
+            },
+            "nombre": {
+              "0": "Santa María"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "100"
+            },
+            "nombre": {
+              "0": "Santa María"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "100"
+            },
+            "nombre": {
+              "0": "Santa María"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Curridabat"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "103"
+            },
+            "nombre": {
+              "0": "Curridabat"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "103"
+            },
+            "nombre": {
+              "0": "Curridabat"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "103"
+            },
+            "nombre": {
+              "0": "Curridabat"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "103"
+            },
+            "nombre": {
+              "0": "Curridabat"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "nombre": {
+          "0": "Pérez Zeledón"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "107"
+            },
+            "nombre": {
+              "0": "San Isidro de El General"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "León Cortés Castro"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "119"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "2"
+    },
+    "nombre": {
+      "0": "Alajuela"
+    },
+    "cantones": [
+      {
+        "numero": 14,
+        "nombre": {
+          "0": "Alajuela"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Alajuela"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 14,
+        "nombre": {
+          "0": "San Ramón"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "15"
+            },
+            "nombre": {
+              "0": "San Ramón"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Grecia"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "29"
+            },
+            "nombre": {
+              "0": "Grecia"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "San Mateo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "36"
+            },
+            "nombre": {
+              "0": "San Mateo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "36"
+            },
+            "nombre": {
+              "0": "San Mateo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "36"
+            },
+            "nombre": {
+              "0": "San Mateo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "36"
+            },
+            "nombre": {
+              "0": "San Mateo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": {
+          "0": "Atenas"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Atenas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": {
+          "0": "Naranjo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Naranjo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Palmares"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Palmares"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Poás"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "63"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "63"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "63"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "63"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "63"
+            },
+            "nombre": {
+              "0": "San Pedro"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Orotina"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Orotina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Orotina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Orotina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Orotina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "68"
+            },
+            "nombre": {
+              "0": "Orotina"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 13,
+        "nombre": {
+          "0": "San Carlos"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "73"
+            },
+            "nombre": {
+              "0": "Quesada"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Zarcero"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "86"
+            },
+            "nombre": {
+              "0": "Zarcero"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Valverde Vega"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "93"
+            },
+            "nombre": {
+              "0": "Sarchí Norte"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "93"
+            },
+            "nombre": {
+              "0": "Sarchí Norte"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "93"
+            },
+            "nombre": {
+              "0": "Sarchí Norte"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "93"
+            },
+            "nombre": {
+              "0": "Sarchí Norte"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "93"
+            },
+            "nombre": {
+              "0": "Sarchí Norte"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": {
+          "0": "Upala"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "98"
+            },
+            "nombre": {
+              "0": "Upala"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Los Chiles"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "106"
+            },
+            "nombre": {
+              "0": "Los Chiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "106"
+            },
+            "nombre": {
+              "0": "Los Chiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "106"
+            },
+            "nombre": {
+              "0": "Los Chiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "106"
+            },
+            "nombre": {
+              "0": "Los Chiles"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Guatuso"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "110"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "110"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "110"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "110"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Río Cuarto"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "114"
+            },
+            "nombre": {
+              "0": "Río Cuarto"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "114"
+            },
+            "nombre": {
+              "0": "Río Cuarto"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "114"
+            },
+            "nombre": {
+              "0": "Río Cuarto"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "3"
+    },
+    "nombre": {
+      "0": "Cartago"
+    },
+    "cantones": [
+      {
+        "numero": 11,
+        "nombre": {
+          "0": "Cartago"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Oriental"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Paraíso"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Paraíso"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Paraíso"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Paraíso"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Paraíso"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Paraíso"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": {
+          "0": "La Unión"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Tres Ríos"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Jiménez"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Juan Viñas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Juan Viñas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Juan Viñas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 12,
+        "nombre": {
+          "0": "Turrialba"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "28"
+            },
+            "nombre": {
+              "0": "Turrialba"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Alvarado"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Pacayas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Pacayas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "40"
+            },
+            "nombre": {
+              "0": "Pacayas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Oreamuno"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "El Guarco"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Tejar"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Tejar"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Tejar"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "Tejar"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "4"
+    },
+    "nombre": {
+      "0": "Heredia"
+    },
+    "cantones": [
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Heredia"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Heredia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Heredia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Heredia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Heredia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Heredia"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Barva"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Barva"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "nombre": {
+          "0": "Santo Domingo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Santo Domingo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Santa Bárbara"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "20"
+            },
+            "nombre": {
+              "0": "Santa Bárbara"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "San Rafael"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "San Rafael"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "San Isidro"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "31"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "31"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "31"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "31"
+            },
+            "nombre": {
+              "0": "San Isidro"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Belén"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "San Antonio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "San Antonio"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "San Antonio"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Flores"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Joaquín"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Joaquín"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "38"
+            },
+            "nombre": {
+              "0": "San Joaquín"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": {
+          "0": "San Pablo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "San Pablo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Sarapiquí"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "Puerto Viejo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "Puerto Viejo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "Puerto Viejo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "Puerto Viejo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "43"
+            },
+            "nombre": {
+              "0": "Puerto Viejo"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "5"
+    },
+    "nombre": {
+      "0": "Guanacaste"
+    },
+    "cantones": [
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Liberia"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Liberia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Liberia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Liberia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Liberia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Liberia"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Nicoya"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "6"
+            },
+            "nombre": {
+              "0": "Nicoya"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "nombre": {
+          "0": "Santa Cruz"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "13"
+            },
+            "nombre": {
+              "0": "Santa Cruz"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Bagaces"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Bagaces"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Bagaces"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Bagaces"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Bagaces"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Carrillo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "Filadelfia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "Filadelfia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "Filadelfia"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "26"
+            },
+            "nombre": {
+              "0": "Filadelfia"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Cañas"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "30"
+            },
+            "nombre": {
+              "0": "Cañas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "30"
+            },
+            "nombre": {
+              "0": "Cañas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "30"
+            },
+            "nombre": {
+              "0": "Cañas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "30"
+            },
+            "nombre": {
+              "0": "Cañas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "30"
+            },
+            "nombre": {
+              "0": "Cañas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Abangares"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Las Juntas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Las Juntas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Las Juntas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Las Juntas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Tilarán"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "39"
+            },
+            "nombre": {
+              "0": "Tilarán"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Nandayure"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "46"
+            },
+            "nombre": {
+              "0": "Carmona"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "La Cruz"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "52"
+            },
+            "nombre": {
+              "0": "La Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "52"
+            },
+            "nombre": {
+              "0": "La Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "52"
+            },
+            "nombre": {
+              "0": "La Cruz"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "52"
+            },
+            "nombre": {
+              "0": "La Cruz"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Hojancha"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Hojancha"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Hojancha"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Hojancha"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Hojancha"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "56"
+            },
+            "nombre": {
+              "0": "Hojancha"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "6"
+    },
+    "nombre": {
+      "0": "Puntarenas"
+    },
+    "cantones": [
+      {
+        "numero": 16,
+        "nombre": {
+          "0": "Puntarenas"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Puntarenas"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Esparza"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "17"
+            },
+            "nombre": {
+              "0": "Espíritu Santo"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "nombre": {
+          "0": "Buenos Aires"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "23"
+            },
+            "nombre": {
+              "0": "Buenos Aires"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Montes de Oro"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "32"
+            },
+            "nombre": {
+              "0": "Miramar"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "32"
+            },
+            "nombre": {
+              "0": "Miramar"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "32"
+            },
+            "nombre": {
+              "0": "Miramar"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Osa"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "35"
+            },
+            "nombre": {
+              "0": "Cortés"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Quepos"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Quepos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Quepos"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "41"
+            },
+            "nombre": {
+              "0": "Quepos"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Golfito"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "44"
+            },
+            "nombre": {
+              "0": "Golfito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "44"
+            },
+            "nombre": {
+              "0": "Golfito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "44"
+            },
+            "nombre": {
+              "0": "Golfito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "44"
+            },
+            "nombre": {
+              "0": "Golfito"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Coto Brus"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "48"
+            },
+            "nombre": {
+              "0": "San Vito"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 1,
+        "nombre": {
+          "0": "Parrita"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "54"
+            },
+            "nombre": {
+              "0": "Parrita"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Corredores"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Corredor"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Corredor"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Corredor"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "55"
+            },
+            "nombre": {
+              "0": "Corredor"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": {
+          "0": "Garabito"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "59"
+            },
+            "nombre": {
+              "0": "Jacó"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "59"
+            },
+            "nombre": {
+              "0": "Jacó"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "numero": {
+      "0": "7"
+    },
+    "nombre": {
+      "0": "Limón"
+    },
+    "cantones": [
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Limón"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Limón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Limón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Limón"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "1"
+            },
+            "nombre": {
+              "0": "Limón"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "nombre": {
+          "0": "Pococí"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "5"
+            },
+            "nombre": {
+              "0": "Guápiles"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "nombre": {
+          "0": "Siquirres"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "12"
+            },
+            "nombre": {
+              "0": "Siquirres"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": {
+          "0": "Talamanca"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "18"
+            },
+            "nombre": {
+              "0": "Bratsi"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "18"
+            },
+            "nombre": {
+              "0": "Bratsi"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "18"
+            },
+            "nombre": {
+              "0": "Bratsi"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "18"
+            },
+            "nombre": {
+              "0": "Bratsi"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": {
+          "0": "Matina"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Matina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Matina"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "22"
+            },
+            "nombre": {
+              "0": "Matina"
+            }
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": {
+          "0": "Guácimo"
+        },
+        "distritos": [
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Guácimo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Guácimo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Guácimo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Guácimo"
+            }
+          },
+          {
+            "secuencia": {
+              "0": "1"
+            },
+            "numero": {
+              "0": "25"
+            },
+            "nombre": {
+              "0": "Guácimo"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
